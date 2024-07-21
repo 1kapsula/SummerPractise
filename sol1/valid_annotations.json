@@ -1,0 +1,89 @@
+{
+    "depth_004_Depth.png472391": {
+        "filename": "depth_004_Depth.raw",
+        "size": 472391,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        383,
+                        419,
+                        363,
+                        321
+                    ],
+                    "all_points_y": [
+                        41,
+                        96,
+                        133,
+                        77
+                    ]
+                },
+                "region_attributes": {
+                    "rectangle": "rectangle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        309,
+                        377,
+                        218,
+                        146
+                    ],
+                    "all_points_y": [
+                        66,
+                        154,
+                        275,
+                        183
+                    ]
+                },
+                "region_attributes": {
+                    "rectangle": "rectangle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        437,
+                        513,
+                        455,
+                        377
+                    ],
+                    "all_points_y": [
+                        111,
+                        202,
+                        254,
+                        161
+                    ]
+                },
+                "region_attributes": {
+                    "rectangle": "rectangle"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        274,
+                        446,
+                        441,
+                        266
+                    ],
+                    "all_points_y": [
+                        366,
+                        363,
+                        235,
+                        242
+                    ]
+                },
+                "region_attributes": {
+                    "rectangle": "rectangle"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}
